@@ -1,4 +1,3 @@
-# POE-programming-assignment-1
 
 ## Introduction
 
@@ -29,7 +28,8 @@ A simple task tracker tool written in Java used in conjuction with the Swing fra
 
 ###### Registration
 
-![image](https://user-images.githubusercontent.com/102338560/168376071-5cd09e46-0b4a-4062-9049-e82cad893c3f.png)
+<img width="422" height="431" alt="Screenshot (445)" src="https://github.com/user-attachments/assets/b165860e-f907-4a12-8475-09185d0ee350" />
+
 
 ###### Keep track of tasks
 
