@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/GUI/pom.xml" />
+        <option value="$PROJECT_DIR$/Text/pom.xml" />
+        <option value="$PROJECT_DIR$/Login/pom.xml" />
+        <option value="$PROJECT_DIR$/Receipt/pom.xml" />
+        <option value="$PROJECT_DIR$/UserName/pom.xml" />
+        <option value="$PROJECT_DIR$/OddEvenNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/LoginValidation/pom.xml" />
+        <option value="$PROJECT_DIR$/buying_A_Product/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK" />
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
+</project>

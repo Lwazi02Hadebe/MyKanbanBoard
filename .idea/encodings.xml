@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/GUI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GUI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Login/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LoginValidation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LoginValidation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OddEvenNumbers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OddEvenNumbers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Receipt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Receipt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Text/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Text/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserName/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserName/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buying_A_Product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buying_A_Product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

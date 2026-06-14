@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EasyKanban" />
+        <module name="LoginValidation" />
+        <module name="Receipt" />
+        <module name="UserName" />
+        <module name="GUI" />
+        <module name="Text" />
+        <module name="Login" />
+        <module name="buying_A_Product" />
+        <module name="OddEvenNumbers" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="buying_A_Product" target="17" />
+      <module name="EasyKanban" target="1.8" />
+      <module name="GUI" target="17" />
+      <module name="Login" target="17" />
+      <module name="LoginValidation" target="1.8" />
+      <module name="OddEvenNumbers" target="17" />
+      <module name="Receipt" target="17" />
+      <module name="Text" target="17" />
+      <module name="UserName" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

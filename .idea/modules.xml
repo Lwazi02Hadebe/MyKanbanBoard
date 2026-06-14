@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EasyKanban.iml" filepath="$PROJECT_DIR$/.idea/EasyKanban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginValidation/LoginValidation.iml" filepath="$PROJECT_DIR$/LoginValidation/LoginValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OddEvenNumbers/OddEvenNumbers.iml" filepath="$PROJECT_DIR$/OddEvenNumbers/OddEvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Receipt/Receipt.iml" filepath="$PROJECT_DIR$/Receipt/Receipt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text/Text.iml" filepath="$PROJECT_DIR$/Text/Text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserName/UserName.iml" filepath="$PROJECT_DIR$/UserName/UserName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buying_A_Product/buying_A_Product.iml" filepath="$PROJECT_DIR$/buying_A_Product/buying_A_Product.iml" />
+    </modules>
+  </component>
+</project>
